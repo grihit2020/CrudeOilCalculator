@@ -1,4 +1,4 @@
-# CrudeOilCalculator using Python and Streamlit.
+# Crude Oil Calculator using Python and Streamlit.
 # Features:
 - It converts currency based on user preference for purchasing speciﬁc units of oil barrels. 
 - Displays the historical prices of oil barrels for the past seven days. 
